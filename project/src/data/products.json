@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fresh Organic Apples",
+      "category": "fruits",
+      "price": 4.99,
+      "unit": "kg",
+      "image": "https://images.pexels.com/photos/1510392/pexels-photo-1510392.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Sweet and crisp organic apples, perfect for snacking or baking."
+    },
+    {
+      "id": 2,
+      "name": "Ripe Bananas",
+      "category": "fruits",
+      "price": 2.99,
+      "unit": "kg",
+      "image": "https://images.pexels.com/photos/1093038/pexels-photo-1093038.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Perfectly ripe bananas, great for smoothies or as a healthy snack."
+    },
+    {
+      "id": 3,
+      "name": "Fresh Broccoli",
+      "category": "vegetables",
+      "price": 3.49,
+      "unit": "kg",
+      "image": "https://images.pexels.com/photos/6316515/pexels-photo-6316515.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Nutrient-rich broccoli florets, perfect for stir-fries and sides."
+    },
+    {
+      "id": 4,
+      "name": "Organic Carrots",
+      "category": "vegetables",
+      "price": 2.29,
+      "unit": "kg",
+      "image": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Sweet and crunchy organic carrots, ideal for salads and cooking."
+    },
+    {
+      "id": 5,
+      "name": "Whole Grain Bread",
+      "category": "bakery",
+      "price": 3.99,
+      "unit": "loaf",
+      "image": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Freshly baked whole grain bread, perfect for sandwiches and toast."
+    },
+    {
+      "id": 6,
+      "name": "Free Range Eggs",
+      "category": "dairy",
+      "price": 4.49,
+      "unit": "dozen",
+      "image": "https://images.pexels.com/photos/162712/egg-white-food-protein-162712.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Farm fresh free-range eggs from locally raised chickens."
+    },
+    {
+      "id": 7,
+      "name": "Organic Milk",
+      "category": "dairy",
+      "price": 3.79,
+      "unit": "liter",
+      "image": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Fresh organic milk, perfect for drinking, cooking, and baking."
+    },
+    {
+      "id": 8,
+      "name": "Chicken Breast",
+      "category": "meat",
+      "price": 9.99,
+      "unit": "kg",
+      "image": "https://images.pexels.com/photos/616354/pexels-photo-616354.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Boneless, skinless chicken breast, perfect for grilling or baking."
+    },
+    {
+      "id": 9,
+      "name": "Atlantic Salmon",
+      "category": "seafood",
+      "price": 14.99,
+      "unit": "kg",
+      "image": "https://images.pexels.com/photos/3296279/pexels-photo-3296279.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Fresh Atlantic salmon fillets, rich in omega-3 fatty acids."
+    },
+    {
+      "id": 10,
+      "name": "Red Bell Peppers",
+      "category": "vegetables",
+      "price": 4.99,
+      "unit": "kg",
+      "image": "https://images.pexels.com/photos/5125690/pexels-photo-5125690.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Sweet and crunchy red bell peppers, perfect for salads and cooking."
+    },
+    {
+      "id": 11,
+      "name": "Avocado",
+      "category": "fruits",
+      "price": 2.49,
+      "unit": "each",
+      "image": "https://images.pexels.com/photos/557659/pexels-photo-557659.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Ripe and creamy avocados, perfect for salads, sandwiches, and guacamole."
+    },
+    {
+      "id": 12,
+      "name": "Chocolate Chip Cookies",
+      "category": "bakery",
+      "price": 5.99,
+      "unit": "pack",
+      "image": "https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Freshly baked chocolate chip cookies, perfect for a sweet treat."
+    }
+  ],
+  "categories": [
+    "fruits",
+    "vegetables",
+    "bakery",
+    "dairy",
+    "meat",
+    "seafood"
+  ]
+}
