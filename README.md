@@ -32,7 +32,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/grocery-website.git
+git clone https://github.com/Shravan-Gupta06/grocery-website.git
 Open index.html in your browser.
 
 (Optional) If backend is included, set up a local server and database as explained in a setup.md.
